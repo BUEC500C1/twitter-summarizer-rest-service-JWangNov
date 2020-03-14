@@ -1,5 +1,5 @@
-# HW5
-**I had my HW5 done on time in my [HW4 repo](https://github.com/BUEC500C1/video-JWangNov). 
+# HW4 - Continued
+**I had my HW4 continued part done on time in my [HW4 repo](https://github.com/BUEC500C1/video-JWangNov). 
 This is only the copy of HW4 web service working part.**
 
 ## Flask Setup
